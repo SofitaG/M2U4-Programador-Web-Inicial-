@@ -1,0 +1,26 @@
+
+.hero {
+    background: url(../img/Header.jpg);
+    background-size: cover;
+    height: 30vh;
+    min-height: 500px;
+    color: white;
+}
+.separator {
+    margin-top: 50px; 
+}
+.product-image-container {
+    position: relative;
+    padding: 5px;
+
+}
+.overlay-button {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-60%);
+}
+
+
+
+
